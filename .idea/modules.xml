@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evision projects/QR Test/QR Test.iml" filepath="$PROJECT_DIR$/Evision projects/QR Test/QR Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evision projects/com.bank/com.bank.iml" filepath="$PROJECT_DIR$/Evision projects/com.bank/com.bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evision.iml" filepath="$PROJECT_DIR$/evision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evision projects/newBank/newBank.iml" filepath="$PROJECT_DIR$/Evision projects/newBank/newBank.iml" />
+    </modules>
+  </component>
+</project>
