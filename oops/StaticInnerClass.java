@@ -8,7 +8,7 @@ class OuterClass {
 
 public class StaticInnerClass {
     public static void main(String[] args) {
-        OuterClass.StaticNestedClass nestedObj = new OuterClass.StaticNestedClass();
+        OuterClass1.StaticNestedClass nestedObj = new OuterClass1.StaticNestedClass();
         nestedObj.display();  // Output: Inside static nested class
         // StaticInnerClass.display();    // its not work
     }

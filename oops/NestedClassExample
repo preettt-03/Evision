@@ -1,0 +1,22 @@
+
+public class NestedClass{
+    
+    int i=10;
+    static int cv=20;
+    private static class StaticNestedClass{
+        public void print(){
+            System.out.println(cv);
+        }
+    }
+
+    void display(){
+        StaticNestedClass obj1 = new StaticNestedClass();
+        obj1.print();
+    }
+}
+ class NestedClassExample{
+    public static void main(String[] args) {
+        NestedClass obj=new NestedClass();
+        obj.display();
+    }
+}
